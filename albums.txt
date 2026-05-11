@@ -1,0 +1,49 @@
+4
+Mr License
+Placeholder Album
+Royalty Free Studios
+4
+images/default.jpg
+2
+Burn It Down
+sounds\01-alexgrohl-burn-it-down-this-angry-metal.mp3
+2:43
+Upbeat Rock 
+sounds\02-bombinsound-upbeat-rock.mp3
+2:36
+Royal T. Free 
+The Album 
+E-Records
+4
+images/default-2.jpg
+2
+Neon Fangs
+sounds\01-fretful_polyphony-neon-fangs.mp3
+3:35
+Rock Music
+sounds\02-monume-rock-rock-music.mp3
+1:30
+Larry P. Music
+Other Songs
+Recorded at Home
+4
+images/default-3.jpg
+2
+Rock Music
+sounds\01-nastelbom-rock-rock-music.mp3
+1:06
+Sport Football
+sounds\02-the_mountain-sport-football.mp3
+1:09
+Vibe Depot
+Vibe Songs
+Pixabay Studios
+4
+images/default-4.jpg
+2
+Free Metal
+sounds\01-vibedepot-free-metal.mp3
+3:11
+Sport Metal
+sounds\02-vibedepot-sport-metal.mp3
+2:22
